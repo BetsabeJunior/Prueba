@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NumerosPerfectos.props" />
+</Project>
