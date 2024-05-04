@@ -1,5 +1,20 @@
-# Prueba Técnica para Desarrolladores
+# Repuestas de la prueba de razonamiento lógico
 
+![image](https://github.com/BetsabeJunior/Prueba/assets/106122984/58b0a170-b28c-4d50-b23c-9d5239586f6c)
+
+Ejercicio 1) 
+Opción 1: A
+Opción 2: B
+Opción 3: C
+Opción 4: C
+
+Ejercicio 2) 
+Opcionón: C
+
+
+
+
+# Prueba Técnica para Desarrolladores
 Este repositorio contiene una solución para determinar los números naturales perfectos dentro de un rango dado de números.
 
 ## Condiciones de la Prueba
